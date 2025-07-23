@@ -1,0 +1,18 @@
+---
+layout: post
+title: Big DATA Based 마케터 양성과정 강의
+img: big_edu-1.png
+---
+
+<blockquote>
+  빅데이터를 통한 마케터 양성 과정으로 강의 중 광운대학교와 한림대학교의 학생들과 추억을 남겨 봅니다.
+  교육 이수 후 곳곳에서 한 몫을 하고 있겠죠! 화이팅^^
+</blockquote>
+
+@광운대학교
+<img src="/images/big_edu_kwang.png" width="50%">
+
+@한림대학교
+<img src="/images/big_edu_han.png" width="50%">
+
+

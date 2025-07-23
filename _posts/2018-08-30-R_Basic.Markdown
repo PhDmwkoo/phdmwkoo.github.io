@@ -1,0 +1,38 @@
+---
+layout: post
+title: R 배워가기
+img: edu_struc.jpg
+---
+
+<blockquote>
+필자는 과거 VOC분석을 위해 엑셀로 문장을 단어 단위로 분류하고, 
+분류된 단어의 형태소를 분류 사전으로 정의하고, 
+그 의미를 해석하기 위해서 단어가 포함된 문장을 탐색 하는 등 많은 시간을 전처리하는데 소모하였습니다.
+그런데, R을 접한 후에는 전처리 시간을 대폭 단축할 수 있었습니다.
+R을 공부하던 그리고 실무에 적용했던 흔적들을 공유합니다.
+아래는 원하는 모양으로 wordcloud를 만드는 코드 예제 입니다.
+</blockquote>
+
+{% highlight html %}
+library(wordcloud2) 
+wordcloud2(demoFreq, figPath = "cloud_img.jpg")
+{% endhighlight %}
+
+<img src="/images/cloud_img.jpg" width="60%">
+
+|  컨텐츠명  |    내용 확인 |
+|----------|------------:|
+| About R | <a href="https://blog.naver.com/sjmw1030/221045219639"> 바로가기 </a> |
+| 데이터셋 생성 | <a href="https://blog.naver.com/sjmw1030/221045240875"> 바로가기 </a> |
+| 그래프(시각화) | <a href="https://blog.naver.com/sjmw1030/221045246905"> 바로가기 </a> |
+| 단계 구분도 만들기 | <a href="https://blog.naver.com/sjmw1030/221050568974"> 바로가기 </a> |
+| 트위터 멘션 가져오기 | <a href="https://blog.naver.com/sjmw1030/221051334373"> 바로가기 </a> |
+| 원하는 모양으로 wordcloud 적용 | <a href="https://blog.naver.com/sjmw1030/221054121634"> 바로가기 </a> |
+| wordcloud specific color 지정 | <a href="https://blog.naver.com/sjmw1030/221054141109"> 바로가기 </a> |
+| 기초 데이터 관리 | <a href="https://blog.naver.com/sjmw1030/221058529347"> 바로가기 </a> |
+| 네트워크 그래프 | <a href="https://blog.naver.com/sjmw1030/221283165335"> 바로가기 </a> |
+| 네트워크 그래프 2 | <a href="https://blog.naver.com/sjmw1030/221283209519"> 바로가기 </a> |
+| 기초문법 in R | <a href="https://blog.naver.com/sjmw1030/221317074318"> 바로가기 </a> |
+| R 형태소 분석 | <a href="https://blog.naver.com/sjmw1030/221283209519"> 바로가기 </a> |
+| R 형태소 분석2 | <a href="https://blog.naver.com/sjmw1030/221317836302"> 바로가기 </a> |
+{: .table .table-striped .table-hover}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 구매 후 온라인 고객 경험이 PB(Private Brand) 신제품구매 의도에 미치는 영향: 온라인 플랫폼 신뢰와 E-만족의 매개효과를 중심으로
+title: 구매 후 온라인 고객 경험이 PB(Private Brand) 신제품구매 의도에 미치는 영향
 img: article002.jpg
 ---
 

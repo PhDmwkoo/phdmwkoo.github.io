@@ -1,1 +1,19 @@
-dddd
+---
+layout: post
+title: 배송형 구독서비스의 적시성과 제품유형이 소비자의 향유와 구독의도에 미치는 영향
+img: standardization.png
+---
+
+<blockquote>
+배송형 구독서비스의 적시성과 제품유형이 소비자의 향유와 구독의도에 미치는 영향
+The Effect of Subscription-Based Delivery Service and Product Type on Consumers’ Perceived Savoring and Subscription Intentions
+</blockquote>
+
+<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002828707"> 한국학술지인용색인 : KCI </a>
+
+소비자가 원하는 날짜에 정기적으로 제품을 배송받을 수 있는 배송형 구독서비스가 크게 성장하고 있다. 배송형 구독서비스를 제공하는 기업들은 더 빠른 배송을 위해 경쟁하고 있지만, 소비자가 이러한 배송 서비스에 실제로 어떻게 반응하는지에 관하여는 알려진 바가 많지 않다. 이와 관련해 본 연구는 배송형 구독서비스에 대해 배송의 적시성과 제품유형의 상호작용이 구독의도에 영향을 미칠 수 있음을 제안하고, 구독의도를 높이는 방법에 대하여 살펴보고자 한다. 본 연구는 집단간 실험설계를 통해 2(배송의 적시성) × 2(제품유형)의 이원 상호작용 효과가 유의함을 확인하였다. 구체적으로 배송의 적시성이 낮을 때는 쾌락재가 실용재보다 더 높은 구독의도를 나타내었으나, 배송의 적시성이 높을 때는 실용재가 쾌락재보다 더 높은 구독의도를 보였다. 한편 배송의 적시성과 제품유형의 상호작용은 소비자가 인지하는 향유를 매개하여 구독의도에 영향을 미치는 것을 발견하였다. 배송의 적시성이 낮을 때는 쾌락재에 한해 향유의 매개효과가 발생하는 반면, 배송의 적시성이 높을 때는 실용재에 한해 향유의 매개효과가 발생함을 확인하였다. 결과적으로 본 연구는 배송의 적시성에 따라 제품유형이 구독의도에 미치는 차별적 영향과 향유의 완전 매개효과를 입증하였으며, 배송 서비스의 구독의도를 높이기 위한 새로운 시각을 제시하였다.
+
+Subscription-based delivery service which enables consumers to receive product periodically on the date that they expect becomes popular. While many firms provide subscription-based delivery services to compete with other rivals in the market to make an effort to increase the speed of delivery services, still few things are known on how consumers respond to such delivery services. Related to this issue, the study investigates the effect of timeliness of delivery in subscription-based delivery service depending on the product type on consumers’ subscription intentions, and tries to find the way how to increase their intentions. The study has a 2(timeliness of delivery: high, low) × 2(product type: utilitarian, hedonic) between subject design. Using an ANOVA with the two dichotomous variables of timeliness of delivery and product type, we finds that while consumers indicate higher subscription intentions when they are provided with higher speed of the delivery service in purchasing utilitarian products, they show higher subscription intentions when they are provided with lower speed of the delivery service in purchasing hedonic products. We also find that consumers enjoy savoring when utilitarian products are delivered in faster speed, and they also enjoy savoring when hedonic products are delivered in slower speed. We demonstrate that savoring mediates the relationship between timeliness of delivery with product type and subscription intentions.
+
+{% endhighlight %}
+

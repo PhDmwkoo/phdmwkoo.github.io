@@ -19,8 +19,27 @@ DOI : 10.17657/jcr.2024.7.31.1
 <B> 구매 후 온라인 고객 경험이 PB(Private Brand) 신제품구매 의도에 미치는 영향: 온라인 플랫폼 신뢰와 E-만족의 매개효과를 중심으로</b>
 The Impact of Post-Purchase Online Customer Experience on the Intention to Purchase New PB (Private Brand) Products: Focusing on the Mediating Effect of Online Platform Trust and E-Satisfaction
 
-목적 : 빠르게 성장하는 전자상거래 시장에서 e-소매업체에 대한 PB의 중요성이 커지고 있고, 향후 더욱 성장할 가능성이 내재된 온라인 시장은 e-소매업체가 PB를 통해 증가하는 온라인 매출의 일부를 확대할 수 있는 기회를 제공할 것이다. 그러나,Alibaba, Amazon, Flipkart 등과 같은 기존 공룡 글로벌 플레이어와의 경쟁으로 인해 엄청난 진입장벽이 존재한다. 이러한 진입장벽을 넘어 글로벌 시장 상황에서 국내 기업의 경쟁력 강화를 위해 온라인 PB에 대한 쇼핑객 행동의 다양한 측면을 이해하는것이 무엇보다 중요하기에 본 연구에서는 첫째, 구매 후 단계에서 온라인 고객 경험의 5가지 차원(배송, 보유 제품, 반품 및 교환,경제적 혜택, 고객 지원)이 e-만족과 온라인 플랫폼 신뢰에 유용한 요인인지 확인하고자 한다. 둘째, 이러한 온라인 플랫폼 PB에대한 신뢰가 브랜드 확장을 통한 PB 신제품 구매 의도에 유의한 영향을 미치는지 확인하고자 한다.
-연구 설계 및 방법론 : 연구의 목적을 달성하기 위하여 약 220명을 대상으로 온라인 설문조사를 실시하였다. 연구의 대상자는온라인 플랫폼 이용 경험이 있고, 만 18세 이상의 성인으로 제한하였다. 가설검증에 앞서 타당도와 신뢰도를 검증하기 위해 요인분석과 신뢰도분석을 실시하였다. 요인추출 방식은 주성분분석이 사용되었으며, 연구에서 사용된 주요 변수들은 본 연구의 성격에 맞게 검증 및 보완하였다. 연구모형에 포함된 변수들은 리커트 유형의 척도를 사용하여 측정하였다. 구매 후 온라인 고객경험 변수는 선행연구에 따라 배송, 보유 제품, 반품 및 교환, 경제적 혜택, 고객 지원 등 5가지를 7점 척도로 측정하였으며, e-만족, 온라인 플랫폼 신뢰, PB 신뢰, PB 신제품 구매 의도 모두 7점 척도로 측정하였다. 가설검증을 위해 통계분석 소프트웨어Jamovi 2.4.14를 사용하여 구조방정식 모형을 설정하여 분석하였다.
-결론 : 본 연구는 구매 후 온라인 고객 경험에 포커스를 맞춰 실제 구매 후 고객과의 상호작용을 포함하여 배송, 보유 제품, 반품 및 교환, 경제적 혜택, 고객 지원과 같은 5가지 차원이 중요한 접촉점이 되는 것을 확인할 수 있었으며, 온라인 플랫폼의 신뢰를 통해 PB신뢰 전이가 발생하는 것을 확인하였다. 지금까지의 선행연구는 주로 온라인 플랫폼 신뢰가 판매자의 신뢰에 긍정적인 영향을 미치며, 판매자의 신뢰가 구매 의도에 긍정적인 영향을 미치는 C2C형태의 e-커머스에서 검증되었으나, 우리는 좀 더확장하여 온라인 플랫폼이 중개자와 판매자를 겸하고 있는 이러한 신뢰를 통해 온라인 플랫폼 브랜드인 PB에 대한 신뢰를 확인하였기에 B2C와 C2C가 혼합하여 존재하는 플랫폼에서 신뢰 전이를 확인한 최초의 연구라고 할 수 있다. 또한, 온라인 플랫폼 브랜드인 PB 신뢰 전이는 PB 신제품 구매 의도로 이어질 수 있는 브랜드 확장의 성공 요인이 될 수 있다는 것 또한 확인하였다.
+목적 :
+빠르게 성장하는 전자상거래 시장에서 e-소매업체에 대한 PB의 중요성이 커지고 있고, 향후 더욱 성장할 가능성이 내재된 온라인 시장은 e-소매업체가 PB를 통해 증가하는 온라인 매출의 일부를 확대할 수 있는 기회를 제공할 것이다. 
+그러나,Alibaba, Amazon, Flipkart 등과 같은 기존 공룡 글로벌 플레이어와의 경쟁으로 인해 엄청난 진입장벽이 존재한다. 
+이러한 진입장벽을 넘어 글로벌 시장 상황에서 국내 기업의 경쟁력 강화를 위해 온라인 PB에 대한 쇼핑객 행동의 다양한 측면을 이해하는것이 무엇보다 중요하기에 본 연구에서는 첫째, 구매 후 단계에서 온라인 고객 경험의 5가지 차원(배송, 보유 제품, 반품 및 교환,경제적 혜택, 고객 지원)이 e-만족과 온라인 플랫폼 신뢰에 유용한 요인인지 확인하고자 한다. 
+둘째, 이러한 온라인 플랫폼 PB에대한 신뢰가 브랜드 확장을 통한 PB 신제품 구매 의도에 유의한 영향을 미치는지 확인하고자 한다.
 
-Purpose: The significance of PB (Private Brand) for e-retailers is growing rapidly in the fast-growing e-commerce market. The potential for further growth in the online market implies that e-retailers have the opportunity to expand their online sales through PB. However, there are significant barriers to entry to competition with existing global giants such as Alibaba, Amazon, and Flipkart. Understnading various of shopper behavior in online PB is crucial for enhancing the competitivess of domestic companies in the global market beyond these barriers. Therefore, this study, first, in the post-purchase stage, we want to check whether the five dimensions of online customer experience (delivery, product-in-hand, return and exchange, economy benefits, customer support) are useful factors for e-satisfaction and platform trust. Second, we want to check whether this trust in the online platform PB has a significant effect on the intention to purchase new PB products through brand expansion.
+연구 설계 및 방법론 : 
+연구의 목적을 달성하기 위하여 약 220명을 대상으로 온라인 설문조사를 실시하였다. 연구의 대상자는온라인 플랫폼 이용 경험이 있고, 만 18세 이상의 성인으로 제한하였다. 가설검증에 앞서 타당도와 신뢰도를 검증하기 위해 요인분석과 신뢰도분석을 실시하였다. 
+요인추출 방식은 주성분분석이 사용되었으며, 연구에서 사용된 주요 변수들은 본 연구의 성격에 맞게 검증 및 보완하였다. 
+연구모형에 포함된 변수들은 리커트 유형의 척도를 사용하여 측정하였다. 
+구매 후 온라인 고객경험 변수는 선행연구에 따라 배송, 보유 제품, 반품 및 교환, 경제적 혜택, 고객 지원 등 5가지를 7점 척도로 측정하였으며, e-만족, 온라인 플랫폼 신뢰, PB 신뢰, PB 신제품 구매 의도 모두 7점 척도로 측정하였다. 
+가설검증을 위해 통계분석 소프트웨어Jamovi 2.4.14를 사용하여 구조방정식 모형을 설정하여 분석하였다.
+
+결론 : 
+본 연구는 구매 후 온라인 고객 경험에 포커스를 맞춰 실제 구매 후 고객과의 상호작용을 포함하여 배송, 보유 제품, 반품 및 교환, 경제적 혜택, 고객 지원과 같은 5가지 차원이 중요한 접촉점이 되는 것을 확인할 수 있었으며, 온라인 플랫폼의 신뢰를 통해 PB신뢰 전이가 발생하는 것을 확인하였다. 
+지금까지의 선행연구는 주로 온라인 플랫폼 신뢰가 판매자의 신뢰에 긍정적인 영향을 미치며, 판매자의 신뢰가 구매 의도에 긍정적인 영향을 미치는 C2C형태의 e-커머스에서 검증되었으나, 우리는 좀 더확장하여 온라인 플랫폼이 중개자와 판매자를 겸하고 있는 이러한 신뢰를 통해 온라인 플랫폼 브랜드인 PB에 대한 신뢰를 확인하였기에 B2C와 C2C가 혼합하여 존재하는 플랫폼에서 신뢰 전이를 확인한 최초의 연구라고 할 수 있다. 
+또한, 온라인 플랫폼 브랜드인 PB 신뢰 전이는 PB 신제품 구매 의도로 이어질 수 있는 브랜드 확장의 성공 요인이 될 수 있다는 것 또한 확인하였다.
+
+Purpose: 
+The significance of PB (Private Brand) for e-retailers is growing rapidly in the fast-growing e-commerce market. The potential for further growth in the online market implies that e-retailers have the opportunity to expand their online sales through PB. 
+However, there are significant barriers to entry to competition with existing global giants such as Alibaba, Amazon, and Flipkart. 
+Understnading various of shopper behavior in online PB is crucial for enhancing the competitivess of domestic companies in the global market beyond these barriers. 
+Therefore, this study, first, in the post-purchase stage, we want to check whether the five dimensions of online customer experience (delivery, product-in-hand, return and exchange, economy benefits, customer support) are useful factors for e-satisfaction and platform trust. 
+Second, we want to check whether this trust in the online platform PB has a significant effect on the intention to purchase new PB products through brand expansion.

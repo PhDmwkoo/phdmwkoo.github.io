@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 배송형 구독서비스의 적시성과 제품유형이 소비자의 향유와 구독의도에 미치는 영향
-img: KCI_logo.png
+img: article001.jpg
 ---
 
 <blockquote>

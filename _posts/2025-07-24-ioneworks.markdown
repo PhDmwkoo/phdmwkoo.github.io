@@ -19,5 +19,5 @@ AI를 활용하여 마우스 클릭 몇 번으로 소프트웨어를 개발할 �
 최적의 관리 환경을 제공, 트러블슈팅이라는 말이 무색할 정도로 신속한 처리가 가능하고, 특히, 자가 진화(self-evolving)되는 
 놀라운 바이브 코딩 도구에요.
 
-출처 : https://ioneworks.com
+출처 : ioneworks.com
 {% endhighlight %}

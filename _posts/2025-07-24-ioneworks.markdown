@@ -12,7 +12,6 @@ img: ioneworks_icode.png
 
 재미있게 포스팅된 블로그 : <a href="https://blog.naver.com/sjmw1030/223945265851">바로가기</a>
 
-{% highlight html %}
 AI를 활용하여 마우스 클릭 몇 번으로 소프트웨어를 개발할 수 있다니, 감탄이 저절로 나오네요.
 
 아이 원 웍스는 IDE 도구이고요. 
@@ -20,4 +19,3 @@ AI를 활용하여 마우스 클릭 몇 번으로 소프트웨어를 개발할 �
 놀라운 바이브 코딩 도구에요.
 
 출처 : ioneworks.com
-{% endhighlight %}

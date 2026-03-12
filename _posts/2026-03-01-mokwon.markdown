@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 목원대학교 경영학부 겸임교
+title: 목원대학교 경영학부 겸임교수
 img: mokwon_simbol.jpg
 ---
 

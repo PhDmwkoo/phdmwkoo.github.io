@@ -5,7 +5,7 @@ img: mokwon_simbol.jpg
 ---
 
 <blockquote>
-대전 최초의 사립대학에서 중부권 최강의 혁신대학으로!<br>
+대전 최초의 사립대학에서 중부권 최강의 혁신대학으로! 
 From Daejeon's First Private University
 To the Strongest Innovative University in the Central Region!
 </blockquote>
